@@ -21,9 +21,8 @@ window.I18N = {
 
         "hero.hi": "Hi!",
         "hero.name": "\u00a0I\u2019m DongYue Fang",
-        "hero.tagline": "A CS undergraduate fascinated by <span class=\"job\">game theory &amp; multi-agent learning</span>",
-        "hero.line1": "Exploring opponent modeling and zero-shot generalization in the Iterated Prisoner\u2019s Dilemma",
-        "hero.line2": "Also into competitive programming, quantitative investing and open source",
+        "hero.tagline": "An undergraduate studying <span class=\"job\">artificial intelligence &amp; computer science</span>",
+        "hero.line1": "I enjoy studying algorithms, quantitative investing and open source",
         "hero.btn.contact": "Contact Me",
         "hero.btn.projects": "My Projects",
         "hero.location": "Nottingham \u00b7 UK",
@@ -102,9 +101,8 @@ window.I18N = {
 
         "hero.hi": "嗨！",
         "hero.name": "我是方董樾",
-        "hero.tagline": "一名着迷于<span class=\"job\">博弈论与多智能体学习</span>的CS本科生",
-        "hero.line1": "探索重复囚徒困境中的对手建模与零样本泛化",
-        "hero.line2": "也喜欢算法竞赛、量化投资与开源分享",
+        "hero.tagline": "一名正在学习<span class=\"job\">人工智能和计算机</span>的本科生",
+        "hero.line1": "喜欢研究算法、量化投资与开源分享",
         "hero.btn.contact": "联系我",
         "hero.btn.projects": "我的项目",
         "hero.location": "英国 · 诺丁汉",
