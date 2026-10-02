@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320">
+  <rect width="640" height="320" rx="14" fill="#eaf4fb"/>
+  <rect x="70" y="34" width="500" height="252" rx="10" fill="#ffffff" stroke="#dde9f3"/>
+  <path d="M70 44a10 10 0 0 1 10-10h480a10 10 0 0 1 10 10v24H70z" fill="#f2f8fd"/>
+  <line x1="70" y1="68" x2="570" y2="68" stroke="#e4eef7"/>
+  <circle cx="92" cy="51" r="5" fill="#f6b8b8"/>
+  <circle cx="110" cy="51" r="5" fill="#f7d9a8"/>
+  <circle cx="128" cy="51" r="5" fill="#b7e3c3"/>
+  <text x="320" y="56" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="13" fill="#8aa0b4">ipd-handagent · evaluate.py</text>
+  <g font-family="Consolas, Menlo, monospace" font-size="14">
+    <text x="94" y="102" fill="#5b7186"><tspan fill="#2095f2">$</tspan> python evaluate.py --library axelrod</text>
+    <text x="94" y="132" fill="#5b7186">opponents: <tspan fill="#006494" font-weight="bold">244</tspan>   turns: 200   matches: 3</text>
+    <text x="94" y="162" fill="#5b7186">probe  →  classify  →  respond</text>
+    <text x="94" y="192" fill="#5b7186">mean score (template): <tspan fill="#006494" font-weight="bold">2.845</tspan></text>
+    <text x="94" y="222" fill="#5b7186">mean score (upgraded): <tspan fill="#2095f2" font-weight="bold">2.913</tspan></text>
+    <text x="94" y="252" fill="#9fb3c4">IPD · decision template · zero-shot</text>
+  </g>
+  <g transform="translate(452,142)">
+    <rect x="0" y="0" width="16" height="16" rx="4" fill="#bfe0f5"/>
+    <rect x="20" y="0" width="16" height="16" rx="4" fill="#7db9e8"/>
+    <rect x="40" y="0" width="16" height="16" rx="4" fill="#2095f2"/>
+    <rect x="0" y="20" width="16" height="16" rx="4" fill="#7db9e8"/>
+    <rect x="20" y="20" width="16" height="16" rx="4" fill="#006494"/>
+    <rect x="40" y="20" width="16" height="16" rx="4" fill="#bfe0f5"/>
+    <rect x="0" y="40" width="16" height="16" rx="4" fill="#2095f2"/>
+    <rect x="20" y="40" width="16" height="16" rx="4" fill="#bfe0f5"/>
+    <rect x="40" y="40" width="16" height="16" rx="4" fill="#7db9e8"/>
+    <rect x="0" y="60" width="16" height="16" rx="4" fill="#006494"/>
+    <rect x="20" y="60" width="16" height="16" rx="4" fill="#2095f2"/>
+    <rect x="40" y="60" width="16" height="16" rx="4" fill="#bfe0f5"/>
+  </g>
+</svg>

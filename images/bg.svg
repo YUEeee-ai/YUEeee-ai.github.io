@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="600" viewBox="0 0 1440 600" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c8e3f8"/>
+      <stop offset="0.5" stop-color="#dbedfa"/>
+      <stop offset="1" stop-color="#f4fafe"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.75" cy="0.18" r="0.55">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.12" cy="0.72" r="0.5">
+      <stop offset="0" stop-color="#b7d9f2" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#b7d9f2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1440" height="600" fill="url(#sky)"/>
+  <rect width="1440" height="600" fill="url(#glow1)"/>
+  <rect width="1440" height="600" fill="url(#glow2)"/>
+  <g fill="#ffffff" opacity="0.22">
+    <circle cx="1210" cy="120" r="90"/>
+    <circle cx="1320" cy="260" r="40"/>
+    <circle cx="180" cy="480" r="70"/>
+  </g>
+  <g fill="none" stroke="#a6cdea" stroke-width="1.5" opacity="0.5">
+    <circle cx="1180" cy="180" r="150"/>
+    <circle cx="1180" cy="180" r="210"/>
+  </g>
+  <g fill="#8fc3e8" opacity="0.4">
+    <circle cx="80" cy="120" r="3"/><circle cx="120" cy="120" r="3"/><circle cx="160" cy="120" r="3"/><circle cx="200" cy="120" r="3"/>
+    <circle cx="80" cy="150" r="3"/><circle cx="120" cy="150" r="3"/><circle cx="160" cy="150" r="3"/><circle cx="200" cy="150" r="3"/>
+    <circle cx="80" cy="180" r="3"/><circle cx="120" cy="180" r="3"/><circle cx="160" cy="180" r="3"/><circle cx="200" cy="180" r="3"/>
+  </g>
+  <g fill="#cde6f9" opacity="0.35" transform="rotate(-12 1200 500)">
+    <rect x="950" y="420" width="520" height="120" rx="60"/>
+  </g>
+</svg>
