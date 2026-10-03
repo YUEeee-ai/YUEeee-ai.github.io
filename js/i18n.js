@@ -80,6 +80,8 @@ window.I18N = {
         "ach2.desc": "Reached Gold Level in the WorldQuant BRAIN factor-mining competition, designing and submitting predictive alpha factors. Click to view the certificate.",
         "ach3.title": "IEEEXtreme 18.0 \u2014 Global Programming Competition",
         "ach3.desc": "Competed with team NULL in IEEEXtreme 18.0, an IEEE-hosted 24-hour global programming competition with over 19,000 participants. Click to view the certificate.",
+        "ach4.title": "Eastmoney Cup \u2014 National College Student Financial Challenge",
+        "ach4.desc": "Participation certificate for the 12th Eastmoney Cup National College Student Financial Challenge (June 2026). Click to view the certificate.",
 
         "news.title": "News",
         "news.subtitle": "RECENT UPDATES",
@@ -170,6 +172,8 @@ window.I18N = {
         "ach2.desc": "在 WorldQuant BRAIN 因子挖掘挑战赛中设计并提交预测性 alpha 因子，达到金牌等级。点击查看证书。",
         "ach3.title": "IEEEXtreme 18.0 \u2014 全球编程竞赛",
         "ach3.desc": "以 NULL 队队员身份参加 IEEE 主办的 IEEEXtreme 18.0 24 小时全球编程竞赛，全球参赛者超过 19,000 人。点击查看证书。",
+        "ach4.title": "东方财富杯 \u2014 全国大学生金融挑战赛",
+        "ach4.desc": "第十二届\u201c东方财富杯\u201d全国大学生金融挑战赛参赛证书（2026年6月）。点击查看证书。",
 
         "news.title": "动态",
         "news.subtitle": "最新动态",
