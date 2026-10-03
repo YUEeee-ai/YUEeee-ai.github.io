@@ -17,6 +17,7 @@ window.I18N = {
         "nav.research": "Research",
         "nav.publications": "Publications",
         "nav.projects": "Projects",
+        "nav.achievements": "Achievements",
         "nav.news": "News",
 
         "hero.hi": "Hi!",
@@ -71,12 +72,21 @@ window.I18N = {
         "proj1.btn": "View Project",
         "proj.ft": "More on GitHub",
 
+        "ach.title": "Achievements",
+        "ach.subtitle": "HONORS & AWARDS",
+        "ach1.title": "Lanqiao Cup \u2014 Second Prize, Zhejiang Division",
+        "ach1.desc": "16th National Software and Information Technology Professionals Competition: C/C++ Programming (University Group B), Zhejiang provincial Second Prize. Click to view the certificate.",
+        "ach2.title": "WorldQuant Challenge \u2014 Gold Level",
+        "ach2.desc": "Reached Gold Level in the WorldQuant BRAIN factor-mining competition, designing and submitting predictive alpha factors. Click to view the certificate.",
+        "ach3.title": "IEEEXtreme 18.0 \u2014 Global Programming Competition",
+        "ach3.desc": "Competed with team NULL in IEEEXtreme 18.0, an IEEE-hosted 24-hour global programming competition with over 19,000 participants. Click to view the certificate.",
+
         "news.title": "News",
         "news.subtitle": "RECENT UPDATES",
-        "news.1.text": "Launched my personal website.",
-        "news.2.text": "Won Gold in the WorldQuant BRAIN factor-mining competition.",
-        "news.3.text": "Completed the opponent-screening research project; manuscript in preparation.",
-        "news.4.text": "Summer internship at Founder Securities, working on industry research and market analysis.",
+        "news.1.text": "Launched my personal website \u2014 a bilingual (EN/ZH) homepage gathering my research, projects, and honors.",
+        "news.2.text": "Won Gold in the WorldQuant BRAIN factor-mining competition, designing and submitting predictive alpha factors.",
+        "news.3.text": "Completed the opponent-screening research project: designed a trigger\u2013probe\u2013classify decision template, evaluated against all 244 strategies of Axelrod 4.14.0 and lifted the full-library mean score from 2.845 to 2.913. Manuscript in preparation.",
+        "news.4.text": "Summer internship at Founder Securities: studied financial-market fundamentals at a brokerage branch and carried out industry research and market analysis.",
 
         "watermark": "DONGYUE FANG",
 
@@ -97,6 +107,7 @@ window.I18N = {
         "nav.research": "研究",
         "nav.publications": "论文",
         "nav.projects": "项目",
+        "nav.achievements": "成就",
         "nav.news": "动态",
 
         "hero.hi": "嗨！",
@@ -151,12 +162,21 @@ window.I18N = {
         "proj1.btn": "查看项目",
         "proj.ft": "在 GitHub 上查看更多",
 
+        "ach.title": "成就",
+        "ach.subtitle": "荣誉奖项",
+        "ach1.title": "蓝桥杯 \u2014 浙江赛区二等奖",
+        "ach1.desc": "第十六届蓝桥杯全国软件和信息技术专业人才大赛，C/C++ 程序设计（大学 B 组）浙江赛区二等奖。点击查看证书。",
+        "ach2.title": "WorldQuant 挑战赛 \u2014 金牌",
+        "ach2.desc": "在 WorldQuant BRAIN 因子挖掘挑战赛中设计并提交预测性 alpha 因子，达到金牌等级。点击查看证书。",
+        "ach3.title": "IEEEXtreme 18.0 \u2014 全球编程竞赛",
+        "ach3.desc": "以 NULL 队队员身份参加 IEEE 主办的 IEEEXtreme 18.0 24 小时全球编程竞赛，全球参赛者超过 19,000 人。点击查看证书。",
+
         "news.title": "动态",
         "news.subtitle": "最新动态",
-        "news.1.text": "我的个人网站正式上线。",
-        "news.2.text": "获得 WorldQuant BRAIN 因子挖掘竞赛金牌。",
-        "news.3.text": "完成迭代囚徒困境对手筛选研究项目，论文手稿撰写中。",
-        "news.4.text": "在方正证券完成暑期实习，参与行业研究与市场分析。",
+        "news.1.text": "个人网站正式上线——中英双语的个人主页，汇总研究、项目与荣誉。",
+        "news.2.text": "在 WorldQuant BRAIN 因子挖掘竞赛中设计并提交预测性 alpha 因子，获得金牌。",
+        "news.3.text": "完成迭代囚徒困境对手筛选研究项目：设计\u201c触发\u2013试探\u2013分类\u201d决策模板，在 Axelrod 4.14.0 全部 244 个策略上完成评测，全库平均得分从 2.845 提升至 2.913；论文手稿撰写中。",
+        "news.4.text": "在方正证券完成为期一个月的暑期实习：在营业部学习证券市场运行机制，开展行业研究与市场分析。",
 
         "watermark": "方董樾",
 

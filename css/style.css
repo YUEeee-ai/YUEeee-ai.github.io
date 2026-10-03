@@ -82,7 +82,7 @@ header{
 .mod-head .bd{
     display: flex;
     flex-wrap: wrap;
-    gap: 20px;
+    gap: 20px 16px;
 }
 .mod-head .logo{
     line-height: 64px;
@@ -121,7 +121,7 @@ header{
 .mod-head nav li a{
     position: relative;
     display: block;
-    padding: 0 14px;
+    padding: 0 11px;
     white-space: nowrap;
     font-size: 16px;
     color: var(--text-color);
@@ -753,6 +753,58 @@ body[data-lang="zh"] .mod-about .summary-container .detail p{
     font-size: 16px;
 }
 
+/* ---------- Achievements ---------- */
+.mod-achievements .list{
+    border-top: 1px solid var(--card-border);
+}
+.mod-achievements .item{
+    display: flex;
+    align-items: flex-start;
+    gap: 28px;
+    padding: 20px 8px;
+    border-bottom: 1px solid var(--card-border);
+    transition: background .15s ease;
+}
+.mod-achievements .item:hover{
+    background: #fafcfe;
+}
+.mod-achievements .item .date{
+    flex: 0 0 92px;
+    color: var(--secondary-color);
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: .5px;
+}
+.mod-achievements .item .c-bd{
+    flex: 1;
+    min-width: 0;
+}
+.mod-achievements .item .title{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: bold;
+    color: var(--title-color);
+}
+.mod-achievements .item .desc{
+    margin-top: 4px;
+    font-size: 16px;
+    line-height: 26px;
+    color: var(--text-dark-color);
+}
+.mod-achievements .item .arrow{
+    margin-left: auto;
+    padding-left: 20px;
+    font-size: 20px;
+    line-height: 26px;
+    color: var(--secondary-color);
+    transition: transform .15s ease, color .15s ease;
+}
+.mod-achievements .item:hover .arrow{
+    color: var(--primary-color);
+    transform: translateX(4px);
+}
+
 /* ---------- Watermark text ---------- */
 .mod-text .text{
     line-height: 160px;
@@ -1141,6 +1193,33 @@ body[data-lang="zh"] .mod-text .text{
     .mod-news .item .text{
         font-size: 15px;
         line-height: 24px;
+    }
+
+    .mod-achievements .item{
+        position: relative;
+        flex-direction: column;
+        gap: 2px;
+        padding: 14px 28px 14px 4px;
+    }
+    .mod-achievements .item .date{
+        flex: none;
+        font-size: 15px;
+    }
+    .mod-achievements .item .title{
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .mod-achievements .item .desc{
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .mod-achievements .item .arrow{
+        position: absolute;
+        right: 6px;
+        top: 16px;
+        padding-left: 0;
+        margin-left: 0;
+        font-size: 18px;
     }
 
     .mod-text .text{
