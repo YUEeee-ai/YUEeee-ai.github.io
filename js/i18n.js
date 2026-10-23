@@ -47,7 +47,7 @@ window.I18N = {
         "research.subtitle": "WHAT I WORK ON",
         "research.project.title": "Opponent Screening in the Iterated Prisoner\u2019s Dilemma",
         "research.desc1": "In repeated games, an agent must quickly identify the behaviour of an unknown opponent and adapt accordingly. In this project I designed a lightweight trigger\u2013probe\u2013classify decision template: the agent reveals the opponent\u2019s type through probes, classifies it online with statistical tests, and switches to a suitable response policy as the match unfolds.",
-        "research.desc2": "Evaluated against all 244 strategies of Axelrod 4.14.0 (200 turns \u00d7 3 matches per opponent), the template reached a full-library mean score of 2.845; with sequential-test upgrades it improved to 2.913 while keeping its retaliatory strength. The work is documented in a paper (in preparation).",
+        "research.desc2": "Evaluated against all 244 strategies of Axelrod 4.14.0 (200 turns \u00d7 3 matches per opponent), the template reached a full-library mean score of 2.845; with sequential-test upgrades it improved to 2.913 while keeping its retaliatory strength. The work is documented in a paper (to appear).",
         "research.stat1.value": "Trigger\u2013Probe\u2013Classify",
         "research.stat1.label": "Decision Template",
         "research.stat2.value": "244 \u00d7 200 \u00d7 3",
@@ -62,7 +62,7 @@ window.I18N = {
 
         "publications.title": "Publications",
         "publications.subtitle": "SELECTED WRITING",
-        "pub.badge": "Manuscript in preparation \u00b7 2026",
+        "pub.badge": "To appear \u00b7 2026",
         "pub.desc": "Proposes a lightweight trigger\u2013probe\u2013classify decision template for online opponent screening in the Iterated Prisoner\u2019s Dilemma, with a systematic evaluation against all 244 strategies of Axelrod 4.14.0. Full text available upon request.",
         "pub.request": "Request full text \u2192",
 
@@ -70,6 +70,8 @@ window.I18N = {
         "projects.subtitle": "WHAT I BUILD",
         "proj1.subtitle": "Research code and evaluation suite for opponent screening in the IPD",
         "proj1.btn": "View Project",
+        "proj2.subtitle": "Chan-theory (缠论) quant engine — fractal → stroke → segment → center → buy/sell-point pipeline, 10 discipline gates, multi-market backtest (US/HK/A-share/crypto).",
+        "proj2.btn": "View Project",
         "proj.ft": "More on GitHub",
 
         "ach.title": "Achievements",
@@ -101,6 +103,7 @@ window.I18N = {
         "img.about.alt": "Illustration of DongYue Fang\u2019s research workspace",
         "img.fig.alt": "Heatmap of average payoffs from the 244-strategy evaluation",
         "img.cover1.alt": "Preview of the ipd-handagent code and evaluation interface",
+        "img.cover2.alt": "Preview of the YUE_Chan-quant backtest interface",
         "aria.gotop": "Back to top"
     },
 
@@ -142,7 +145,7 @@ window.I18N = {
         "research.subtitle": "研究方向",
         "research.project.title": "迭代囚徒困境中的对手筛选",
         "research.desc1": "在重复博弈中，智能体需要快速识别未知对手的行为模式并相应调整策略。本项目设计了一个轻量的\u201c触发\u2013试探\u2013分类\u201d决策模板：先通过试探揭示对手类型，再基于统计检验在线分类，并随着对局展开自适应切换到相应的应对策略。",
-        "research.desc2": "在 Axelrod 4.14.0 全部 244 个策略上的评测（每个对手 200 回合 × 3 场）中，模板的全库平均分为 2.845；引入序贯检验升级后提升至 2.913，同时保持了对恶意策略的报复能力。相关工作已整理为论文（撰写中）。",
+        "research.desc2": "在 Axelrod 4.14.0 全部 244 个策略上的评测（每个对手 200 回合 × 3 场）中，模板的全库平均分为 2.845；引入序贯检验升级后提升至 2.913，同时保持了对恶意策略的报复能力。相关工作已整理为论文（待发表）。",
         "research.stat1.value": "触发–试探–分类",
         "research.stat1.label": "决策模板",
         "research.stat2.value": "244 × 200 × 3",
@@ -157,7 +160,7 @@ window.I18N = {
 
         "publications.title": "论文",
         "publications.subtitle": "学术写作",
-        "pub.badge": "论文手稿撰写中 · 2026",
+        "pub.badge": "待发表 · 2026",
         "pub.desc": "提出面向迭代囚徒困境的轻量级\u201c触发\u2013试探\u2013分类\u201d决策模板，支持在线对手筛选，并在 Axelrod 4.14.0 全部 244 个策略上完成系统评测。全文可来信索取。",
         "pub.request": "来信索取全文 →",
 
@@ -165,6 +168,8 @@ window.I18N = {
         "projects.subtitle": "项目作品",
         "proj1.subtitle": "迭代囚徒困境对手筛选的研究代码与全库评测套件",
         "proj1.btn": "查看项目",
+        "proj2.subtitle": "缠论量化引擎——分型→笔→线段→中枢→买卖点全链路，十层纪律门控，美/港/A/加密多市场回测。",
+        "proj2.btn": "查看项目",
         "proj.ft": "在 GitHub 上查看更多",
 
         "ach.title": "成就",
@@ -196,6 +201,7 @@ window.I18N = {
         "img.about.alt": "方董樾的研究工作台插画",
         "img.fig.alt": "244 个策略全库评测的平均收益热力图",
         "img.cover1.alt": "ipd-handagent 代码与评测界面预览",
+        "img.cover2.alt": "YUE_Chan-quant 回测界面预览",
         "aria.gotop": "回到顶部"
     }
 };
