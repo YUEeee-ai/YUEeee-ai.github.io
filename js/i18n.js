@@ -82,6 +82,8 @@ window.I18N = {
         "ach3.desc": "Competed with team NULL in IEEEXtreme 18.0, an IEEE-hosted 24-hour global programming competition with over 19,000 participants. Click to view the certificate.",
         "ach4.title": "Eastmoney Cup \u2014 National College Student Financial Challenge",
         "ach4.desc": "Participation certificate for the 12th Eastmoney Cup National College Student Financial Challenge (June 2026). Click to view the certificate.",
+        "ach5.title": "ICPC UK & Ireland Programming Contest \u2014 61st Place",
+        "ach5.desc": "Received a Certificate of Achievement for sixty-first place at the 2026 ICPC UK & Ireland Programming Contest (UKIEPC), held on 17 October 2026. Click to view the certificate.",
 
         "news.title": "News",
         "news.subtitle": "RECENT UPDATES",
@@ -89,6 +91,7 @@ window.I18N = {
         "news.2.text": "Won Gold in the WorldQuant BRAIN factor-mining competition, designing and submitting predictive alpha factors.",
         "news.3.text": "Completed the opponent-screening research project: designed a trigger\u2013probe\u2013classify decision template, evaluated against all 244 strategies of Axelrod 4.14.0 and lifted the full-library mean score from 2.845 to 2.913. Manuscript in preparation.",
         "news.4.text": "Summer internship at Founder Securities: studied financial-market fundamentals at a brokerage branch and carried out industry research and market analysis.",
+        "news.5.text": "Placed 61st at the 2026 ICPC UK & Ireland Programming Contest (UKIEPC) on 17 October.",
 
         "watermark": "DONGYUE FANG",
 
@@ -174,6 +177,8 @@ window.I18N = {
         "ach3.desc": "以 NULL 队队员身份参加 IEEE 主办的 IEEEXtreme 18.0 24 小时全球编程竞赛，全球参赛者超过 19,000 人。点击查看证书。",
         "ach4.title": "东方财富杯 \u2014 全国大学生金融挑战赛",
         "ach4.desc": "第十二届\u201c东方财富杯\u201d全国大学生金融挑战赛参赛证书（2026年6月）。点击查看证书。",
+        "ach5.title": "ICPC 英国与爱尔兰区域赛 \u2014 第 61 名",
+        "ach5.desc": "在 2026 ICPC 英国与爱尔兰编程竞赛（UKIEPC，2026年10月17日）中获得第六十一名，获颁 Certificate of Achievement。点击查看证书。",
 
         "news.title": "动态",
         "news.subtitle": "最新动态",
@@ -181,6 +186,7 @@ window.I18N = {
         "news.2.text": "在 WorldQuant BRAIN 因子挖掘竞赛中设计并提交预测性 alpha 因子，获得金牌。",
         "news.3.text": "完成迭代囚徒困境对手筛选研究项目：设计\u201c触发\u2013试探\u2013分类\u201d决策模板，在 Axelrod 4.14.0 全部 244 个策略上完成评测，全库平均得分从 2.845 提升至 2.913；论文手稿撰写中。",
         "news.4.text": "在方正证券完成为期一个月的暑期实习：在营业部学习证券市场运行机制，开展行业研究与市场分析。",
+        "news.5.text": "在 2026 ICPC 英国与爱尔兰编程竞赛（UKIEPC，10月17日）中获得第 61 名。",
 
         "watermark": "方董樾",
 
