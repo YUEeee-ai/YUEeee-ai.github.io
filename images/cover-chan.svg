@@ -13,8 +13,8 @@
     <text x="94" y="156" fill="#5b7186">fractal &#8594; stroke &#8594; segment &#8594; center &#8594; bsp</text>
     <text x="94" y="184" fill="#5b7186">discipline gates: <tspan fill="#006494" font-weight="bold">1-9 on &#183; 10 off</tspan></text>
     <text x="94" y="212" fill="#5b7186">markets: <tspan fill="#2095f2" font-weight="bold">US &#183; HK &#183; A-share &#183; crypto</tspan></text>
-    <text x="94" y="242" fill="#5b7186">AAPL 2015&#8211;2024  total <tspan fill="#2095f2" font-weight="bold">+292.69%</tspan></text>
-    <text x="94" y="268" fill="#9fb3c4">Chan theory &#183; multi-market &#183; backtest</text>
+    <text x="94" y="242" fill="#5b7186">backtest reports <tspan fill="#2095f2" font-weight="bold">&#945; vs buy-and-hold</tspan></text>
+    <text x="94" y="268" fill="#9fb3c4">research &#183; no look-ahead &#183; &#945; vs hold</text>
   </g>
   <g transform="translate(452,96)">
     <rect x="-6" y="-6" width="120" height="156" rx="8" fill="#f7fbff" stroke="#e4eef7"/>
